@@ -31,7 +31,7 @@ Erasmus+ alum (Metropolia UAS, Helsinki).
 
 - 🔗 GitHub: [github.com/Senegalion](https://github.com/Senegalion)  
 - 🌐 Portfolio: [dev-portfolio-blog.vercel.app](https://dev-portfolio-blog-git-master-lukasz-pelikans-projects-16683e6c.vercel.app/)  
-- 📧 Email: (tu możesz dodać swój kontakt jeśli chcesz)
+- 📧 Email: lupelikan@gmail.com
 
 ---
 
