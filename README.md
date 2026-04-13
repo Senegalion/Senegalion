@@ -5,7 +5,7 @@
 ---
 
 ### About me
-I am a Junior Java Developer & 4th-year Computer Science student at Lodz University of Technology.  
+I am a Java Developer and a Computer Science graduate from Lodz University of Technology.
 Erasmus+ alum (Metropolia UAS, Helsinki).  
 
 - 💻 Experienced with Java 17+, Kotlin, Spring Boot, Spring Cloud, REST APIs, PostgreSQL, MongoDB, Hibernate, JUnit, Docker.  
