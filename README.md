@@ -1,11 +1,11 @@
-## Hi there 👋, I’m Łukasz Pelikan (Senegalion)
+## Hi there, I’m Łukasz Pelikan (Senegalion)
 
 ### Junior Java Developer | Computer Science Student | Karateka 🥋
 
 ---
 
 ### About me
-I am a Java Developer and a Computer Science graduate from Lodz University of Technology.
+I am a Java Developer/DevOps and a Computer Science graduate from Lodz University of Technology.
 Erasmus+ alum (Metropolia UAS, Helsinki).  
 
 - 💻 Experienced with Java 17+, Kotlin, Spring Boot, Spring Cloud, REST APIs, PostgreSQL, MongoDB, Hibernate, JUnit, Docker.  
@@ -18,6 +18,9 @@ Erasmus+ alum (Metropolia UAS, Helsinki).
 ---
 
 ### My main projects
+
+- **Karate Training Management System** (Microservices)  
+  A scalable system managing karate training schedules, participants, and events using microservices architecture.
 
 - **Karate Training Management System** (Microservices)  
   A scalable system managing karate training schedules, participants, and events using microservices architecture.  
