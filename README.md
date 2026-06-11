@@ -22,8 +22,8 @@ Erasmus+ alum (Metropolia UAS, Helsinki).
 - **Karate Training Management System** (Microservices)  
   A scalable system managing karate training schedules, participants, and events using microservices architecture.
 
-- **Karate Training Management System** (Microservices)  
-  A scalable system managing karate training schedules, participants, and events using microservices architecture.  
+- **City Failure Predictor** (Microservices)  
+  A microservices-based platform for reporting, monitoring, and analyzing urban incidents such as power outages, water leaks, road damage, fires, and traffic accidents.  
 
 - **Job Offers Aggregator** (Modular Monolith Web App)  
   Web app aggregating job offers with modular design, implemented with Java and Spring Boot.
