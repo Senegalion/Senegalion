@@ -1,4 +1,4 @@
-## Hi there, I’m Łukasz Pelikan (Senegalion)
+## Hi there, I’m Łukasz (Senegalion)
 
 ### Software Engineer | Cloud, DevOps & Backend | Java, Spring, Kafka, Azure, CI/CD | AI & ML | Computer Science Engineer | Karateka 🥋
 
