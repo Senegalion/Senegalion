@@ -1,6 +1,6 @@
 ## Hi there, I’m Łukasz Pelikan (Senegalion)
 
-### Junior Java Developer | Computer Science Student | Karateka 🥋
+### Software Engineer | Cloud, DevOps & Backend | Java, Spring, Kafka, Azure, CI/CD | AI & ML | Computer Science Engineer | Karateka 🥋
 
 ---
 
